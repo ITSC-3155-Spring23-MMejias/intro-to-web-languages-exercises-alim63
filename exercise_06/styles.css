@@ -1,0 +1,18 @@
+body
+{
+   background-color:Green;
+}
+#main-title
+{
+  text-align:center;
+  font-weight:bold;
+  font-family:@MS Gothic;
+ }
+    
+ p.content {
+  margin-bottom:12px;
+  color: black;
+  font-weight:bold;
+  font-family:@Arial Unicode MS;
+}
+
